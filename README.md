@@ -39,7 +39,7 @@
 <div style="display:flex;">
 <img src="https://github-readme-stats.vercel.app/api?username=kmlcnclk&hide=contribs,prs&show_icons=true&theme=radical" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmlcnclk&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmlcnclk&layout=compact&theme=radical" />
 </div>
 
 <br>
