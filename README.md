@@ -1,4 +1,4 @@
-### Hola, I'm Kamilcan Çelik 👋
+### Hi, I'm Kamilcan Çelik 👋
 
 
 - 🌱 I’m currently learning React
