@@ -1,7 +1,7 @@
 ### Hi, I'm Kamilcan Çelik 👋
 
 # 💫 About Me:
-- 🌱 I’m currently coding TypeScript<br>- 💬 Ask me about React JS, Next JS, JavaScript, TypeScript, Redux, Node JS<br>
+- 🌱 I’m currently coding with TypeScript<br>- 💬 Ask me about React JS, Next JS, JavaScript, TypeScript, Redux, Node JS<br>
 
 
 ## 🌐 Socials:
