@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 - 👨🏻‍💻 I’m currently coding with TypeScript<br>
-- 📖 Learing Kotlin, GoLang, AWS Services and Kubernetes 
+- 📖 Learing Kotlin, Go, AWS Services and Kubernetes 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamilcan-celik) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kmlcnclk) 
